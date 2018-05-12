@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42257
 description: I. On the primary division of Nature. II. On the classes of Insects.
   III. On the sub-classes, &c., of Lepidoptera.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43496#Sphinx-VespiformisAn-Essay
 gutenberg_issued: '2013-08-18'
 gutenberg_type: Text
 identifiers:
