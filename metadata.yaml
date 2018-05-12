@@ -1,0 +1,27 @@
+_repo: Sphinx-VespiformisAn-Essay_43496
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43496-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Newman, Edward
+    birthdate: 1801
+    deathdate: 1876
+    gutenberg_agent_id: '42257'
+    url: http://www.gutenberg.org/2009/agents/42257
+description: I. On the primary division of Nature. II. On the classes of Insects.
+  III. On the sub-classes, &c., of Lepidoptera.
+gutenberg_issued: '2013-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sphinx vespiformis'
+- !lcc 'QL'
+title: 'Sphinx Vespiformis: An Essay'
+url: http://www.gutenberg.org/ebooks/43496
